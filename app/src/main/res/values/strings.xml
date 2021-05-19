@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">intelMarketList</string>
     <string name="actionbar_title">Lista de compras</string>
+    <string name="add">Adicionar</string>
     <string name="action_search">Search</string>
     <string name="action_refresh">Refresh</string>
     <string name="action_settings">Settings</string>
